@@ -1,0 +1,1 @@
+http://www.vogella.com/tutorials/Grails/article.html#guestbookapplication
